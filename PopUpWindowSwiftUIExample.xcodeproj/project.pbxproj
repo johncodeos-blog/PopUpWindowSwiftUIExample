@@ -11,6 +11,7 @@
 		C2FB574E255360890097B872 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2FB574D255360890097B872 /* ContentView.swift */; };
 		C2FB57502553608A0097B872 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C2FB574F2553608A0097B872 /* Assets.xcassets */; };
 		C2FB57532553608A0097B872 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C2FB57522553608A0097B872 /* Preview Assets.xcassets */; };
+		C2FB5760255361180097B872 /* PopUpWindow.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2FB575F255361180097B872 /* PopUpWindow.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		C2FB574F2553608A0097B872 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C2FB57522553608A0097B872 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		C2FB57542553608A0097B872 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C2FB575F255361180097B872 /* PopUpWindow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopUpWindow.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				C2FB574B255360890097B872 /* PopUpWindowSwiftUIExampleApp.swift */,
 				C2FB574D255360890097B872 /* ContentView.swift */,
+				C2FB575F255361180097B872 /* PopUpWindow.swift */,
 				C2FB574F2553608A0097B872 /* Assets.xcassets */,
 				C2FB57542553608A0097B872 /* Info.plist */,
 				C2FB57512553608A0097B872 /* Preview Content */,
@@ -140,6 +143,7 @@
 			files = (
 				C2FB574E255360890097B872 /* ContentView.swift in Sources */,
 				C2FB574C255360890097B872 /* PopUpWindowSwiftUIExampleApp.swift in Sources */,
+				C2FB5760255361180097B872 /* PopUpWindow.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
